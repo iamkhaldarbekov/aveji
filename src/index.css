@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Helvetica";
+        src: url('./assets/fonts/Helvetica.ttf');
+        font-weight: 400;
+    }
+    
+    @font-face {
+        font-family: "Helvetica";
+        src: url('./assets/fonts/Helvetica-Bold.ttf');
+        font-weight: 700;
+    }
+    
+    @font-face {
+        font-family: "Roboto";
+        src: url('./assets/fonts/Roboto-Regular.ttf');
+        font-weight: 400;
+    }
+    
+    @font-face {
+        font-family: "Roboto";
+        src: url('./assets/fonts/Roboto-Bold.ttf');
+        font-weight: 700;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply text-[16px] py-[12px] px-[20px] text-white duration-100 bg-dark hover:bg-beige hover:text-dark active:bg-[#CBC6B2] disabled:bg-dark/[0.50];
+    }
+    .secondbtn {
+        @apply uppercase text-[18px] text-dark bg-transparent border-black border-b-[1px] hover:text-beige hover:border-beige active:text-[#CBC6B2] active:border-[#CBC6B2];
+    }
+    .inp {
+        @apply block bg-transparent text-dark placeholder:text-dark border-dark border-b-[1px] outline-none;
+    }
+    .h1 {
+        @apply font-helvetica uppercase text-dark text-[72px];
+    }
+    .h2 {
+        @apply max-w-[562px] font-helvetica text-dark text-[48px];
+    }
+    .h3 {
+        @apply font-helvetica text-dark text-[36px];
+    }
+    .h1-mob {
+        @apply font-helvetica uppercase text-dark text-[32px];
+    }
+    .h2-mob {
+        @apply font-helvetica text-dark text-[28px];
+    }
+    .h3-mob {
+        @apply font-helvetica text-dark text-[24px];
+    }
+}
