@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aveji/static/css/main.75bab3de.css",
+    "main.css": "/aveji/static/css/main.175c3713.css",
     "main.js": "/aveji/static/js/main.50d8aa60.js",
     "static/media/header.png": "/aveji/static/media/header.1bb2b7207ddc944bd0e6.png",
     "static/media/order.png": "/aveji/static/media/order.9c6dc71c190fc879224a.png",
@@ -23,11 +23,11 @@
     "index.html": "/aveji/index.html",
     "static/media/burger.svg": "/aveji/static/media/burger.56b051d437c06912aa6365967997d536.svg",
     "static/media/cancel.svg": "/aveji/static/media/cancel.15c0bc1aebe781cccb88f305a43ec29f.svg",
-    "main.75bab3de.css.map": "/aveji/static/css/main.75bab3de.css.map",
+    "main.175c3713.css.map": "/aveji/static/css/main.175c3713.css.map",
     "main.50d8aa60.js.map": "/aveji/static/js/main.50d8aa60.js.map"
   },
   "entrypoints": [
-    "static/css/main.75bab3de.css",
+    "static/css/main.175c3713.css",
     "static/js/main.50d8aa60.js"
   ]
 }
