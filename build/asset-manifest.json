@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aveji/static/css/main.75bab3de.css",
+    "main.js": "/aveji/static/js/main.50d8aa60.js",
+    "static/media/header.png": "/aveji/static/media/header.1bb2b7207ddc944bd0e6.png",
+    "static/media/order.png": "/aveji/static/media/order.9c6dc71c190fc879224a.png",
+    "static/media/Helvetica.ttf": "/aveji/static/media/Helvetica.06113bf748ae7dc33e05.ttf",
+    "static/media/Helvetica-Bold.ttf": "/aveji/static/media/Helvetica-Bold.ed57aca7292971d8548c.ttf",
+    "static/media/project4.png": "/aveji/static/media/project4.98773a2d24bc73a5e5f2.png",
+    "static/media/project5.png": "/aveji/static/media/project5.22e0bbb45d82789643e5.png",
+    "static/media/project2.png": "/aveji/static/media/project2.8085da8d287405b5e775.png",
+    "static/media/project1.png": "/aveji/static/media/project1.699a8f3b53f07537ef66.png",
+    "static/media/project3.png": "/aveji/static/media/project3.c0540a7fe8222b9aef3f.png",
+    "static/media/header1.png": "/aveji/static/media/header1.1b4409968840cc6a636b.png",
+    "static/media/header-mob.png": "/aveji/static/media/header-mob.1b84fc6b0f8178e022e9.png",
+    "static/media/Roboto-Regular.ttf": "/aveji/static/media/Roboto-Regular.27f62b53b93858475a7f.ttf",
+    "static/media/Roboto-Bold.ttf": "/aveji/static/media/Roboto-Bold.d50a80138ec4f2fb5e9f.ttf",
+    "static/media/project.png": "/aveji/static/media/project.5f7852ecd096a87b36d2.png",
+    "static/media/appstore.svg": "/aveji/static/media/appstore.2689d6217d3b247ccdbb8fa58b1019d1.svg",
+    "static/media/googleplay.svg": "/aveji/static/media/googleplay.73d58e72800dabdada34030d6d404ee0.svg",
+    "static/media/logo.svg": "/aveji/static/media/logo.2d2378ee8b083d17a79e5d1f33f925c5.svg",
+    "static/media/quotes.svg": "/aveji/static/media/quotes.bf8a1814498ba467b178a7495eeddc76.svg",
+    "index.html": "/aveji/index.html",
+    "static/media/burger.svg": "/aveji/static/media/burger.56b051d437c06912aa6365967997d536.svg",
+    "static/media/cancel.svg": "/aveji/static/media/cancel.15c0bc1aebe781cccb88f305a43ec29f.svg",
+    "main.75bab3de.css.map": "/aveji/static/css/main.75bab3de.css.map",
+    "main.50d8aa60.js.map": "/aveji/static/js/main.50d8aa60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bab3de.css",
+    "static/js/main.50d8aa60.js"
+  ]
+}
